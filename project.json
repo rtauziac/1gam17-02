@@ -1,0 +1,197 @@
+{
+  "name": "1GAM17-02",
+  "assets": [
+    {
+      "id": "1",
+      "name": "KeyboardScene",
+      "type": "scene"
+    },
+    {
+      "id": "3",
+      "name": "Hand",
+      "type": "model"
+    },
+    {
+      "id": "6",
+      "name": "Hand2",
+      "type": "model"
+    },
+    {
+      "id": "4",
+      "name": "Key",
+      "type": "model"
+    },
+    {
+      "id": "2",
+      "name": "KeyCheckerScript",
+      "type": "script"
+    },
+    {
+      "id": "5",
+      "name": "HandScript",
+      "type": "script"
+    },
+    {
+      "id": "9",
+      "name": "KeyScript",
+      "type": "script"
+    },
+    {
+      "id": "37",
+      "name": "Background",
+      "type": "cubicModel"
+    },
+    {
+      "id": "38",
+      "name": "Black key",
+      "type": "cubicModel"
+    },
+    {
+      "id": "8",
+      "name": "Sounds",
+      "type": null,
+      "children": [
+        {
+          "id": "17",
+          "name": "Organ c2",
+          "type": "sound"
+        },
+        {
+          "id": "18",
+          "name": "Organ d2",
+          "type": "sound"
+        },
+        {
+          "id": "19",
+          "name": "Organ e2",
+          "type": "sound"
+        },
+        {
+          "id": "20",
+          "name": "Organ f2",
+          "type": "sound"
+        },
+        {
+          "id": "21",
+          "name": "Organ g2",
+          "type": "sound"
+        },
+        {
+          "id": "22",
+          "name": "Organ a2",
+          "type": "sound"
+        },
+        {
+          "id": "23",
+          "name": "Organ b2",
+          "type": "sound"
+        },
+        {
+          "id": "7",
+          "name": "Organ c3",
+          "type": "sound"
+        },
+        {
+          "id": "10",
+          "name": "Organ d3",
+          "type": "sound"
+        },
+        {
+          "id": "11",
+          "name": "Organ e3",
+          "type": "sound"
+        },
+        {
+          "id": "12",
+          "name": "Organ f3",
+          "type": "sound"
+        },
+        {
+          "id": "13",
+          "name": "Organ g3",
+          "type": "sound"
+        },
+        {
+          "id": "14",
+          "name": "Organ a3",
+          "type": "sound"
+        },
+        {
+          "id": "15",
+          "name": "Organ b3",
+          "type": "sound"
+        },
+        {
+          "id": "16",
+          "name": "Organ c4",
+          "type": "sound"
+        },
+        {
+          "id": "24",
+          "name": "Organ d4",
+          "type": "sound"
+        },
+        {
+          "id": "25",
+          "name": "Organ e4",
+          "type": "sound"
+        },
+        {
+          "id": "26",
+          "name": "Organ f4",
+          "type": "sound"
+        },
+        {
+          "id": "27",
+          "name": "Organ g4",
+          "type": "sound"
+        },
+        {
+          "id": "28",
+          "name": "Organ a4",
+          "type": "sound"
+        },
+        {
+          "id": "29",
+          "name": "Organ b4",
+          "type": "sound"
+        },
+        {
+          "id": "30",
+          "name": "Organ c5",
+          "type": "sound"
+        },
+        {
+          "id": "31",
+          "name": "Organ d5",
+          "type": "sound"
+        },
+        {
+          "id": "32",
+          "name": "Organ e5",
+          "type": "sound"
+        },
+        {
+          "id": "33",
+          "name": "Organ f5",
+          "type": "sound"
+        },
+        {
+          "id": "34",
+          "name": "Organ g5",
+          "type": "sound"
+        },
+        {
+          "id": "35",
+          "name": "Organ a5",
+          "type": "sound"
+        },
+        {
+          "id": "36",
+          "name": "Organ b5",
+          "type": "sound"
+        }
+      ]
+    }
+  ]
+}
